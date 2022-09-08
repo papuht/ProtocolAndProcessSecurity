@@ -6,4 +6,4 @@ Team members
 Jere Kotiniemi
 Panu Puhtila
 Toni Tuunainen
-Suvi 
+Suvi Rannisto
